@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Furqan Zafar
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: furqan_zfr@outlook.com
@@ -56,12 +56,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Professional with 3+ years of experience in full stack enterprise grade development. during my career I have worked on multiple enterprise
+grade distributed cloud applications with massive datasets and a variable set of technologies. I am an aspiring solutions architect for which I
+am always eager to learn new technologies. I have a passion for resolving business problems using technology.
 education:
     title: Education
     info:
